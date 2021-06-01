@@ -1,0 +1,25 @@
+{
+	"appName": "BookQuoteService",
+	"lob":"Book",
+	"enableLogsInInterceptor": true,
+	"logDisplayOrder": [
+		"LOB",
+		"APP",
+		"METHOD",
+		"METHOD_TYPE",
+		"REFERRER",
+		"SOURCE_IP",
+		"DESTINATION_IP",
+		"USER-AGENT",
+		"USER_EMAIL",
+		"TRACE_ID",
+		"SERVICE_URL",
+		"CONTAINER_ID",
+		"IMAGE_ID",
+		"ENVIRORMENT",
+		"REQ_SIZE",
+		"RESP_SIZE",
+		"RESPCODE",
+		"RESPTIME"
+	]
+}
