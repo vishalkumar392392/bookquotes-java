@@ -14,4 +14,6 @@ public interface BookService {
 	List<BookModel> getAllBooks();
 
 	String addQuote(int id, String quote);
+
+	List<BookModel> removeQuote(String quote);
 }
